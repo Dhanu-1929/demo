@@ -9,7 +9,7 @@ const Header = () => {
                 <Link to='/courses'>Courses</Link>
                 <Link to='/contact'>Contack</Link>
                 <Link to='/admission'>Admission</Link>
-                <link to="button">Apply now</link>
+               
             </nav>
         </header>
     )
