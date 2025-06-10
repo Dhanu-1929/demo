@@ -48,7 +48,7 @@ const App=() => {
         <div>
             <BrowserRouter>
             <Routes>
-                <Route path="/home" element={<HomePage/>} />
+                <Route path="/" element={<HomePage/>} />
                 <Route path="/about"element={<aboutPage/>}/>
                 <Route path="/courses"element={<coursesPage/>}/>
                 <Route path="/contact"element={<contactPage/>}/>
